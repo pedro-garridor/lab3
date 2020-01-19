@@ -1,2 +1,2 @@
 # lab3
-Laboratorio 3 de HPC-Bio
+Repositorio para el **laboratorio 3** de *HPC-Bio*.
